@@ -1,0 +1,13 @@
+﻿nivel,nivel_v,periodo,fecha,kpi,kpi_v,kpi_u
+udn,CJS,semana,5-Jun-2023,NS,0.85,porcentaje
+udn,CJS,semana,12-Jun-2023,NS,0.9,porcentaje
+udn,CJS,semana,19-Jun-2023,NS,0.95,porcentaje
+udn,CJS,semana,26-Jun-2023,NS,1,porcentaje
+udn,HMO,semana,5-Jun-2023,NS,1,porcentaje
+udn,HMO,semana,12-Jun-2023,NS,0.95,porcentaje
+udn,HMO,semana,19-Jun-2023,NS,0.9,porcentaje
+udn,HMO,semana,26-Jun-2023,NS,0.85,porcentaje
+udn,TIJ,semana,5-Jun-2023,NS,0.9,porcentaje
+udn,TIJ,semana,12-Jun-2023,NS,0.95,porcentaje
+udn,TIJ,semana,19-Jun-2023,NS,1,porcentaje
+udn,TIJ,semana,26-Jun-2023,NS,0.95,porcentaje
